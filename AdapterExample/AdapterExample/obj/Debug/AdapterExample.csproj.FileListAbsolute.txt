@@ -1,1 +1,6 @@
 C:\Users\bjorn\Documents\GitHub\AdapterExample\AdapterExample\AdapterExample\bin\Debug\AdapterExample.exe.config
+C:\Users\bjorn\Documents\GitHub\AdapterExample\AdapterExample\AdapterExample\obj\Debug\AdapterExample.csprojResolveAssemblyReference.cache
+C:\Users\bjorn\Documents\GitHub\AdapterExample\AdapterExample\AdapterExample\bin\Debug\AdapterExample.exe
+C:\Users\bjorn\Documents\GitHub\AdapterExample\AdapterExample\AdapterExample\bin\Debug\AdapterExample.pdb
+C:\Users\bjorn\Documents\GitHub\AdapterExample\AdapterExample\AdapterExample\obj\Debug\AdapterExample.exe
+C:\Users\bjorn\Documents\GitHub\AdapterExample\AdapterExample\AdapterExample\obj\Debug\AdapterExample.pdb
