@@ -15,15 +15,15 @@ namespace AdapterExample
             Security thiefAdapter = new ThiefAdapter(thief);
 
             Console.WriteLine("Real agent does his round");
-            doRound(agent);
+            doRound(agent); //Elke dag opnieuw...
 
             Console.WriteLine("Thief does his round");
-            doRound(thiefAdapter);
+            doRound(thiefAdapter); //Als dit lukt is de dief blij hij doet zich voor als bewakingsagent
 
             Console.ReadKey();
         }
 
-        static void doRound(Security sec)
+        static void doRound(Security sec) //hierdoor kunnen enkel Security members hun ronde doen
         {
             sec.suitUp();
             sec.checkCameras();
